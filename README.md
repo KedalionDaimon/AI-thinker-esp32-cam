@@ -1,5 +1,5 @@
 # AI-thinker-esp32-cam
-Motion-based and periodic camera surveillance using ESP32 Cam on AI Thinker boards.
+Motion-based and periodic camera surveillance using ESP32 Cam (OV2640) on AI Thinker boards.
 
 For a demonstration, see:
 
